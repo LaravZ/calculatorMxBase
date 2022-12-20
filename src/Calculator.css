@@ -1,0 +1,9 @@
+.calculator {
+    align-items: center;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+button:hover {
+    background: darkgray;
+}
